@@ -26,7 +26,7 @@ Nos comprometemos a proteger la seguridad de la información personal recopilada
 
 ## Cambios en esta Política de Privacidad
 
-Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquier momento. Se te notificará cualquier cambio mediante la publicación de la Política de Privacidad actualizada en [nuestra página oficial](https://carlosvamoreno.github.io/spacelegenda/politicaDePrivacidad.html).
+Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquier momento. Se te notificará cualquier cambio mediante la publicación de la Política de Privacidad actualizada en [nuestra página oficial](https://carlosvamoreno.github.io/SpaceLegenda/politicaDePrivacidad.html).
 
 ## Contacto
 
