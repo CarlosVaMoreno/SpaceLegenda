@@ -8,7 +8,7 @@ Puedes consultar la versión publicada aquí
 
 ## ¿Qué incluye
 
-- `politicaDePrivacidad.html` archivo original en formato web.
+- `PoliticaDePrivacidad.html` archivo original en formato web.
 - `politica-de-privacidad.md` versión Markdown para mejor lectura en GitHub.
 - `README.md` este documento.
 
