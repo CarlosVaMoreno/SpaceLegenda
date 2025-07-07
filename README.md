@@ -4,11 +4,11 @@ Este repositorio contiene la política de privacidad del juego móvil SpaceLegen
 
 Puedes consultar la versión publicada aquí
 
-🔗 [Ver Política de Privacidad](httpstuusuario.github.ioturepositoriopolitica-de-privacidad.html)
+🔗 [Ver Política de Privacidad](https://carlosvamoreno.github.io/SpaceLegenda/PoliticaDePrivacidad.html)
 
 ## ¿Qué incluye
 
-- `politica-de-privacidad.html` archivo original en formato web.
+- `politicaDePrivacidad.html` archivo original en formato web.
 - `politica-de-privacidad.md` versión Markdown para mejor lectura en GitHub.
 - `README.md` este documento.
 
